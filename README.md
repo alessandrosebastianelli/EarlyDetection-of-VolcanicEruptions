@@ -1,4 +1,5 @@
 # Early Detection of Volcanic Eruptions
+#### Authors: Pietro Di Stasio, Alessandro Sebastianelli, Gabriele Meoni and Silvia Liberata Ullo
 
 # !!! Repository under preparation !!!
 
