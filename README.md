@@ -1,13 +1,13 @@
-# EarlyDetection-of-VolcanicEruptions
+# Early Detection of Volcanic Eruptions
 
 # !!! Repository under preparation !!!
 
-The dataset will be uploaded soon
+# !!! The dataset will be uploaded soon !!!
 
 
 
 
-Cite our article:
+Cite our paper:
 
     @article{Hyperscout1,
       author = {Pietro Di Stasio and Alessandro Sebastianelli and Gabriele Meoni and Silvia Liberata Ullo},
