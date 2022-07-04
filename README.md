@@ -7,8 +7,9 @@
 
 # Dataset
 
-- V1: dataset-distasio2022 -> the dataset presented in 
+## V1: dataset-distasio2022  
 
+This dataset is presented in:
 
     @article{distasio2022,
       author = {Pietro Di Stasio and Alessandro Sebastianelli and Gabriele Meoni and Silvia Liberata Ullo},
@@ -18,5 +19,5 @@
     }
 
 
-- V2: to do
+## V2: to do
   
